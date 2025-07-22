@@ -1,5 +1,3 @@
-# Image-Scraper-Flask
-A Flask-based tool to automate image scraping from Google—fast, clean, and dataset-ready.
 # 📸 Image Scraper — Automate Google Image Collection with Flask
 
 What if collecting hundreds of images from Google was as simple as typing a keyword and clicking a button?
