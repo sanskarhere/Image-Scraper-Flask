@@ -10,6 +10,7 @@ What if collecting hundreds of images from Google was as simple as typing a keyw
 
 Manual image collection is slow, repetitive, and error-prone.  
 Whether you're training a machine learning model, designing a UI, or building a dataset—this tool saves time and sanity by automating the entire process.
+“Search. Scrape. Save. Simplified.”
 
 ---
 
