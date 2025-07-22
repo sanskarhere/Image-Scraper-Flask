@@ -1,4 +1,4 @@
-# 📸 <h2> <i>Image Scraper — Automate Google Image Collection with Flask</i></h2?
+# <h2>📸 <i>Image Scraper — Automate Google Image Collection with Flask</i></h2>
 
 What if collecting hundreds of images from Google was as simple as typing a keyword and clicking a button?
 
