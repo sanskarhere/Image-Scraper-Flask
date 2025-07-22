@@ -1,4 +1,4 @@
-# 📸 Image Scraper — Automate Google Image Collection with Flask
+# 📸 <h2> <i>Image Scraper — Automate Google Image Collection with Flask</i></h2?
 
 What if collecting hundreds of images from Google was as simple as typing a keyword and clicking a button?
 
@@ -37,7 +37,7 @@ Whether you're training a machine learning model, designing a UI, or building a 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/image-scraper-flask.git
+git clone https://github.com/sanskarhere/Image-Scraper-Flask.git
 cd image-scraper-flask
 pip install -r requirements.txt
 python app.py
